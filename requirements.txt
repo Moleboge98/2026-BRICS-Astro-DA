@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+astropy
+astroquery
+lightkurve
+ipython
+jupyterlab
+emcee
+corner
+lifelines
+ipyaladin
+mocpy
+pyvo
